@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.bracketPairColorization.enabled": true,
+    "githubPullRequests.defaultDeletionMethod.selectRemote": false,
+    "githubPullRequests.defaultDeletionMethod.selectLocalBranch": false,
+    "explorer.confirmDelete": false,
+    "angular.enable-strict-mode-prompt": false
+}
